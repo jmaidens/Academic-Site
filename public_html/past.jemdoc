@@ -1,0 +1,42 @@
+# jemdoc: menu{MENU}{past.html}, title{John Maidens -- UC Berkeley EECS -- Research}, analytics{UA-49242397-1}
+= Previous Research
+
+== Scalable computation of viability kernels 
+
+ When analysing safety-critical systems we wish to provide a mathematical guarantee that, despite limited control authority, the system’s state can be confined to a region of the state space designated as safe. The largest subset of the safe region for which there exists an admissible control input that keeps the state within the safe region is known as the viability kernel, or maximal controlled invariant set.
+
+Many methods are known for computing viability kernels in low-dimensional systems, but these existing methods rely on gridding the state space and hence their time complexity increases exponentially with the state dimension. Finding a connection between reachability and viability theory has enabled us to approximate the viability kernel using Lagrangian methods which scale well with the state dimension.
+
+We have developed new viability kernel approximation algorithms using polytope-, ellipsoid- and support vector-based set representations. Using the support vector and ellipsoidal techniques, we are able to accurately approximate the viability kernel for systems of much larger state dimension than was previously feasible using existing Eulerian methods.
+
+~~~
+=== Related publications:
+
+    - J. Maidens, S. Kaynama, I. M. Mitchell, M. Oishi, G. A. Dumont, Lagrangian methods for approximating the viability kernel in high-dimensional systems, Automatica, vol. 49, pp.2017-2029, 2013. [papers/2013Automatica.pdf Preprint].
+doi:[http://dx.doi.org/10.1016/j.automatica.2013.03.020 10.1016/j.automatica.2013.03.020]
+
+    - S. Kaynama, J. Maidens, M. Oishi, I. M. Mitchell, G. A. Dumont, Computing the Viability Kernel Using Maximal Reachable Sets,
+    Hybrid Systems Computation and Control, Beijing, China, pp.55-63, 2012. [papers/2012HSCC.pdf Preprint]. doi:[http://doi.acm.org/10.1145/2185632.2185644  10.1145/2185632.2185644]
+
+    - J. Maidens, "Scalable computation of viability kernels and a viability-theoretic approach to guaranteeing safety for closed-loop medical devices," Master of Applied Science Thesis,
+    The University of British Columbia, 2012. [http://circle.ubc.ca/handle/2429/42719]
+
+~~~
+
+== Combinatorial approaches to generating Lyapunov functions for networked dynamical systems
+
+ Recent interest in distributed, cooperative control has generated a wealth of research into the stability of multi-agent networks. The formation control problem involves the development of algorithms to control the relative positions and orientations of a group of robots, allowing the group to perform tasks and navigate its environment as a whole. This aggregate behaviour enables the completion of tasks like distributed sensing, monitoring and surveillance to be performed without the guidance of a centralized controller.
+
+Analysis of a formation control algorithm often involves a proof that the algorithm is stable for any initial configuration of the agents. We are interested in demonstrating the stability of hierarchically coupled multi-agent systems by demonstrating the existence of a global Lyapunov function.
+
+We have developed a general method of constructing Lyapunov functions for coupled multi-agent systems from simple Lyapunov functions corresponding to the dynamics of each agent in the system. Our results use a combinatorial approach from the mathematical epidemiology literature based on Kirchhoff's matrix-tree theorem.  This method provides a mean of choosing coefficients to construct a global Lyapunov function as a linear combination of the agent Lyapunov functions.
+
+
+
+
+~~~
+=== Related publications:
+
+    - J. Maidens, M. Y. Li, Global Lyapunov functions and a hierarchical control scheme for networks of robotic agents, American Control Conference, Washington, DC, pp.4050-4055, 2013. [papers/2013ACC.pdf Preprint]. [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6580460 Published version].
+
+~~~

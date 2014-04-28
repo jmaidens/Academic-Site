@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>John Maidens -- UC Berkeley EECS -- Research</title>
+</head>
+<body>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+    var pageTracker = _gat._getTracker("UA-49242397-1");
+    pageTracker._trackPageview();
+} catch(err) {}</script>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">John Maidens</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="cv.pdf">CV</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="research.html">Current</a></div>
+<div class="menu-item"><a href="past.html" class="current">Previous</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Previous Research</h1>
+</div>
+<h2>Scalable computation of viability kernels </h2>
+<p>When analysing safety-critical systems we wish to provide a mathematical guarantee that, despite limited control authority, the system’s state can be confined to a region of the state space designated as safe. The largest subset of the safe region for which there exists an admissible control input that keeps the state within the safe region is known as the viability kernel, or maximal controlled invariant set.</p>
+<p>Many methods are known for computing viability kernels in low-dimensional systems, but these existing methods rely on gridding the state space and hence their time complexity increases exponentially with the state dimension. Finding a connection between reachability and viability theory has enabled us to approximate the viability kernel using Lagrangian methods which scale well with the state dimension.</p>
+<p>We have developed new viability kernel approximation algorithms using polytope-, ellipsoid- and support vector-based set representations. Using the support vector and ellipsoidal techniques, we are able to accurately approximate the viability kernel for systems of much larger state dimension than was previously feasible using existing Eulerian methods.</p>
+<div class="infoblock">
+<div class="blockcontent">
+<h3>Related publications:</h3>
+<ul>
+<li><p>J. Maidens, S. Kaynama, I. M. Mitchell, M. Oishi, G. A. Dumont, Lagrangian methods for approximating the viability kernel in high-dimensional systems, Automatica, vol. 49, pp.2017-2029, 2013. <a href="papers/2013Automatica.pdf">Preprint</a>.
+doi:<a href="http://dx.doi.org/10.1016/j.automatica.2013.03.020">10.1016/j.automatica.2013.03.020</a></p>
+</li>
+</ul>
+<ul>
+<li><p>S. Kaynama, J. Maidens, M. Oishi, I. M. Mitchell, G. A. Dumont, Computing the Viability Kernel Using Maximal Reachable Sets,
+Hybrid Systems Computation and Control, Beijing, China, pp.55-63, 2012. <a href="papers/2012HSCC.pdf">Preprint</a>. doi:<a href="http://doi.acm.org/10.1145/2185632.2185644">10.1145/2185632.2185644</a></p>
+</li>
+</ul>
+<ul>
+<li><p>J. Maidens, &ldquo;Scalable computation of viability kernels and a viability-theoretic approach to guaranteeing safety for closed-loop medical devices,&rdquo; Master of Applied Science Thesis,
+The University of British Columbia, 2012. <a href="http://circle.ubc.ca/handle/2429/42719">http://circle.ubc.ca/handle/2429/42719</a></p>
+</li>
+</ul>
+</div></div>
+<h2>Combinatorial approaches to generating Lyapunov functions for networked dynamical systems</h2>
+<p>Recent interest in distributed, cooperative control has generated a wealth of research into the stability of multi-agent networks. The formation control problem involves the development of algorithms to control the relative positions and orientations of a group of robots, allowing the group to perform tasks and navigate its environment as a whole. This aggregate behaviour enables the completion of tasks like distributed sensing, monitoring and surveillance to be performed without the guidance of a centralized controller.</p>
+<p>Analysis of a formation control algorithm often involves a proof that the algorithm is stable for any initial configuration of the agents. We are interested in demonstrating the stability of hierarchically coupled multi-agent systems by demonstrating the existence of a global Lyapunov function.</p>
+<p>We have developed a general method of constructing Lyapunov functions for coupled multi-agent systems from simple Lyapunov functions corresponding to the dynamics of each agent in the system. Our results use a combinatorial approach from the mathematical epidemiology literature based on Kirchhoff's matrix-tree theorem.  This method provides a mean of choosing coefficients to construct a global Lyapunov function as a linear combination of the agent Lyapunov functions.</p>
+<div class="infoblock">
+<div class="blockcontent">
+<h3>Related publications:</h3>
+<ul>
+<li><p>J. Maidens, M. Y. Li, Global Lyapunov functions and a hierarchical control scheme for networks of robotic agents, American Control Conference, Washington, DC, pp.4050-4055, 2013. <a href="papers/2013ACC.pdf">Preprint</a>. <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6580460">Published version</a>.</p>
+</li>
+</ul>
+</div></div>
+<div id="footer">
+<div id="footer-text">
+Page generated 2014-04-20 17:50:22 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

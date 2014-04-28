@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{publications.html}, title{John Maidens -- UC Berkeley EECS -- Publications}, analytics{UA-49242397-1}
+= Publications
+
+== In refereed journals
+
+    - J. Maidens, M. Arcak, Reachability analysis of nonlinear systems using matrix measures, IEEE Transactions on Automatic Control, Accepted for publication. [papers/2014TAC.pdf Preprint].
+
+
+    - J. Maidens, S. Kaynama, I. M. Mitchell, M. Oishi, G. A. Dumont, Lagrangian methods for approximating the viability kernel in high-dimensional systems, Automatica, vol. 49, pp.2017-2029, 2013. [papers/2013Automatica.pdf Preprint].
+doi:[http://dx.doi.org/10.1016/j.automatica.2013.03.020 10.1016/j.automatica.2013.03.020]
+
+
+
+
+
+== In refereed conference proceedings
+
+    - J. Maidens, M. Y. Li, Global Lyapunov functions and a hierarchical control scheme for networks of robotic agents, American Control Conference, Washington, DC, pp.4050-4055, 2013. [papers/2013ACC.pdf Preprint]. [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6580460 Published version].
+	
+	- S. Kaynama, J. Maidens, M. Oishi, I. M. Mitchell, G. A. Dumont, Computing the Viability Kernel Using Maximal Reachable Sets,
+    Hybrid Systems Computation and Control, Beijing, China, pp.55-63, 2012. [papers/2012HSCC.pdf Preprint]. doi:[http://doi.acm.org/10.1145/2185632.2185644  10.1145/2185632.2185644]
+
+
+== Master's thesis
+
+    - J. Maidens, "Scalable computation of viability kernels and a viability-theoretic approach to guaranteeing safety for closed-loop medical devices," Master of Applied Science Thesis,
+    The University of British Columbia, 2012. 
+[http://circle.ubc.ca/handle/2429/42719]
