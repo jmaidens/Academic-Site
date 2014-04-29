@@ -3,7 +3,7 @@
 
 == Scalable computation of viability kernels 
 
- When analysing safety-critical systems we wish to provide a mathematical guarantee that, despite limited control authority, the system’s state can be confined to a region of the state space designated as safe. The largest subset of the safe region for which there exists an admissible control input that keeps the state within the safe region is known as the viability kernel, or maximal controlled invariant set.
+ When analyzing safety-critical systems we wish to provide a mathematical guarantee that, despite limited control authority, the system’s state can be confined to a region of the state space designated as safe. The largest subset of the safe region for which there exists an admissible control input that keeps the state within the safe region is known as the viability kernel, or maximal controlled invariant set.
 
 Many methods are known for computing viability kernels in low-dimensional systems, but these existing methods rely on gridding the state space and hence their time complexity increases exponentially with the state dimension. Finding a connection between reachability and viability theory has enabled us to approximate the viability kernel using Lagrangian methods which scale well with the state dimension.
 
