@@ -1,6 +1,20 @@
 # jemdoc: menu{MENU}{research.html}, title{John Maidens -- UC Berkeley EECS -- Research}, analytics{UA-36191755-1}
 = Current Research
 
+== Optimal experiment design for physiological system identification
+
+ Hyperpolarized carbon-13 magnetic resonance imaging is a new medical imaging method that has enabled the real-time observation of perfusion and metabolism in vivo. To generate an image, the user must choose a flip angle at which to perturb the magnetic spins associated with each of the compounds to be imaged. We consider the problem of optimally choosing a time-varying sequence of flip angles in order to achieve the best estimates of rate parameters in a physiological model.
+
+ We have developed a model of the observed image data as a function of the chosen flip angles. This allows us to formulate the choice of flip angles as a nonlinear optimization problem, using the Fisher information about the unknown parameters as the objective function. We have found that the resulting optimized flip angle schemes provide more reliable estimates of the model's rate parameters than the constant flip angle schemes currently used in practice.
+
+~~~
+=== Related publications:
+
+- J. Maidens, P. E. Z. Larson, M. Arcak. Optimal experiment design for physiological parameter estimation using hyperpolarized carbon-13 magnetic resonance imaging. American Control Conference, Chicago, IL, 2015 (accepted). [papers/2015ACC.pdf Preprint]
+
+~~~
+
+
 == Trajectory-based computation of reachable sets
 
 
