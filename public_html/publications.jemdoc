@@ -10,8 +10,7 @@
     - J. Maidens, M. Arcak, Reachability analysis of nonlinear systems using matrix measures, IEEE Transactions on Automatic Control, vol. 60, pp.265-270, 2015. [papers/2015TAC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/TAC.2014.2325635  10.1109/TAC.2014.2325635]. [papers/2015TAC_corrigenda.pdf Corrigenda].
 
 
-    - J. Maidens, S. Kaynama, I. M. Mitchell, M. Oishi, G. A. Dumont, Lagrangian methods for approximating the viability kernel in high-dimensional systems, Automatica, vol. 49, pp.2017-2029, 2013. [papers/2013Automatica.pdf Preprint].
-doi:[http://dx.doi.org/10.1016/j.automatica.2013.03.020 10.1016/j.automatica.2013.03.020].
+    - J. Maidens, S. Kaynama, I. M. Mitchell, M. Oishi, G. A. Dumont, Lagrangian methods for approximating the viability kernel in high-dimensional systems, Automatica, vol. 49, pp.2017-2029, 2013. [papers/2013Automatica.pdf Preprint]. doi:[http://dx.doi.org/10.1016/j.automatica.2013.03.020 10.1016/j.automatica.2013.03.020].
 
 
 
@@ -19,7 +18,10 @@ doi:[http://dx.doi.org/10.1016/j.automatica.2013.03.020 10.1016/j.automatica.201
 
 == In refereed conference proceedings
 
-    - J. Maidens, P. E. Z. Larson, M. Arcak. Optimal experiment design for physiological parameter estimation using hyperpolarized carbon-13 magnetic resonance imaging. American Control Conference, Chicago, IL, pp. 5770-5775, 2015. [papers/2015ACC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/ACC.2015.7172243 10.1109/ACC.2015.7172243].
+    - J. Maidens, M. Arcak, Semidefinite relaxations in optimal experiment design with application to substrate injection for hyperpolarized MRI. American Control Conference, 2016, Submitted. [papers/2016ACC.pdf Preprint].# doi:[http://dx.doi.org/10.1109/ACC.2015.7172243 10.1109/ACC.2015.7172243].
+
+
+    - J. Maidens, P. E. Z. Larson, M. Arcak, Optimal experiment design for physiological parameter estimation using hyperpolarized carbon-13 magnetic resonance imaging. American Control Conference, Chicago, IL, pp. 5770-5775, 2015. [papers/2015ACC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/ACC.2015.7172243 10.1109/ACC.2015.7172243].
 
     - J. Maidens, M. Arcak, Trajectory-based reachability analysis of switched nonlinear systems using matrix measures, Conference on Decision and Control, Los Angeles, CA, pp.6358-6364, 2014. [papers/2014CDC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/CDC.2014.7040386  10.1109/CDC.2014.7040386].
 
