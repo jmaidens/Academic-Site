@@ -4,15 +4,15 @@
 ~~~
 {}{img_left}{john.jpg}{John Maidens}
  John N. Maidens \n
- Ph.D. Student \n
-[http://www.eecs.berkeley.edu/~arcak/ Networked Dynamical Systems Group]\n
+ PhD Student \n
+[http://www.eecs.berkeley.edu/~arcak/ Arcak Group]\n
 [http://www.eecs.berkeley.edu/ Electrical Engineering and Computer Sciences]\n
 [http://www.berkeley.edu/ University of California, Berkeley]\n
 ~~~
 
 == About
 
-I am a Ph.D. student in the Department of Electrical Engineering and Computer Sciences advised by [http://www.eecs.berkeley.edu/Faculty/Homepages/arcak.html Murat Arcak]. My research focuses on developing scalable algorithms to identify and analyze large-scale models of dynamical systems.
+I am a PhD student in the Department of Electrical Engineering and Computer Sciences advised by [http://www.eecs.berkeley.edu/~arcak/ Murat Arcak]. I am broadly interested in control, optimization, statistics and machine learning. My research focuses on developing scalable algorithms for optimal control, uncertainty propagation, and statistical estimation in dynamic systems. I apply these algorithms to solve problems in medical imaging and automated anesthesia. 
 
 == Contact
 558 Cory Hall\n
@@ -21,6 +21,12 @@ Berkeley, CA 94720\n
 email: maidens (at) eecs.berkeley.edu \n
 [http://www.eecs.berkeley.edu/~maidens/]
 
+== Elsewhere 
+
+{{<a href="http://github.com/maidens/"><img class="button" src="figs/github.png" alt=""/> Github </a>}} 
+{{<a href="http://maidens.github.io"><img class="button" src="figs/globe.png" alt=""/> Blog</a>}} 
+{{<a href="http://scholar.google.com/citations?user=Dh1F6rgAAAAJ"><img class="button" src="figs/scholar.png" alt=""/> Google Scholar</a>}} 
+{{<a href="http://orcid.org/0000-0001-8211-7699 "><img class="button" src="figs/orcid.png" alt=""/> ORCID</a>}} 
 
 
 
