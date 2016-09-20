@@ -10,11 +10,13 @@
 ~~~
 === Related publications:
 
-- J. Maidens, J. W. Gordon, M. Arcak, P. E. Z. Larson,  Optimizing flip angles for metabolic rate estimation in hyperpolarized carbon-13 MRI, IEEE Transactions on Medical Imaging, to appear. [papers/2016TMI.pdf Preprint]. doi:[http://dx.doi.org/10.1109/TMI.2016.2574240  10.1109/TMI.2016.2574240].
+	- J. Maidens, J. W. Gordon, M. Arcak, P. E. Z. Larson,  Optimizing flip angles for metabolic rate estimation in hyperpolarized carbon-13 MRI, IEEE Transactions on Medical Imaging, to appear. [papers/2016TMI.pdf Preprint]. doi:[http://dx.doi.org/10.1109/TMI.2016.2574240  10.1109/TMI.2016.2574240].
 
-- J. Maidens, A. Packard, M. Arcak, Parallel dynamic programming for optimal experiment design in nonlinear systems. Conference on Decision and Control, Las Vegas, NV, 2016, Submitted. [papers/2016CDC.pdf Preprint].# doi:[http://dx.doi.org/10.1109/ACC.2015.7172243 10.1109/ACC.2015.7172243].
+	- J. Maidens, A. Barrau, S. Bonnabel, and M. Arcak, Symmetry reduction for dynamic programming and application to MRI. American Control Conference, Seattle, WA, submitted. [papers/2017ACC.pdf Preprint]. 
 
-- J. Maidens, M. Arcak, Semidefinite relaxations in optimal experiment design with application to substrate injection for hyperpolarized MRI (Invited Paper). American Control Conference, Boston, MA, 2016, Accepted. [papers/2016ACC.pdf Preprint].# doi:[http://dx.doi.org/10.1109/ACC.2015.7172243 10.1109/ACC.2015.7172243].
+    - J. Maidens, A. Packard, M. Arcak, Parallel dynamic programming for optimal experiment design in nonlinear systems. Conference on Decision and Control, Las Vegas, NV, 2016, to appear. [papers/2016CDC.pdf Preprint].# doi:[http://dx.doi.org/10.1109/ACC.2015.7172243 10.1109/ACC.2015.7172243].
+
+    - J. Maidens, M. Arcak, Semidefinite relaxations in optimal experiment design with application to substrate injection for hyperpolarized MRI (Invited Paper). American Control Conference, Boston, MA, pp. 2023 - 2028, 2016. [papers/2016ACC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/ACC.2016.7525216 10.1109/ACC.2016.7525216].
 
     - J. Maidens, P. E. Z. Larson, M. Arcak, Optimal experiment design for physiological parameter estimation using hyperpolarized carbon-13 magnetic resonance imaging. American Control Conference, Chicago, IL, pp. 5770-5775, 2015. [papers/2015ACC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/ACC.2015.7172243 10.1109/ACC.2015.7172243].
 
@@ -33,6 +35,7 @@
 ~~~
 === Related publications:
 
-- J. Maidens, M. Arcak, Reachability analysis of nonlinear systems using matrix measures, IEEE Transactions on Automatic Control, vol. 60, pp.265-270, 2015. [papers/2015TAC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/TAC.2014.2325635  10.1109/TAC.2014.2325635]. [papers/2015TAC_corrigenda.pdf Corrigenda].
+	- J. Maidens, M. Arcak, Reachability analysis of nonlinear systems using matrix measures, IEEE Transactions on Automatic Control, vol. 60, pp.265-270, 2015. [papers/2015TAC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/TAC.2014.2325635  10.1109/TAC.2014.2325635]. [papers/2015TAC_corrigenda.pdf Corrigenda].
+	
     - J. Maidens, M. Arcak, Trajectory-based reachability analysis of switched nonlinear systems using matrix measures, Conference on Decision and Control, Los Angeles, CA, pp.6358-6364, 2014. [papers/2014CDC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/CDC.2014.7040386  10.1109/CDC.2014.7040386].
 ~~~

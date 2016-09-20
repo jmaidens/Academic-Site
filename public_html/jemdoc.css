@@ -365,3 +365,8 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+img.button {
+	width: 18px;
+	vertical-align: -15%;
+}
