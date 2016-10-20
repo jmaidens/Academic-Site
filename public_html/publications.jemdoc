@@ -5,26 +5,26 @@
 
     - J. Maidens, M. Arcak, Optimization for metabolic rate estimation in hyperpolarized carbon-13 MRI, Emerging Applications of Control and System Theory, eds. R. Tempo and S. Yurkovichto, Springer, to appear. [papers/2017Festschrift.pdf Abstract]. 
 
-    - J. Maidens, J. W. Gordon, M. Arcak, P. E. Z. Larson,  Optimizing flip angles for metabolic rate estimation in hyperpolarized carbon-13 MRI, IEEE Transactions on Medical Imaging, to appear. [papers/2016TMI.pdf Preprint]. doi:[http://dx.doi.org/10.1109/TMI.2016.2574240  10.1109/TMI.2016.2574240].
+    - J. Maidens, J. W. Gordon, M. Arcak, P. E. Z. Larson,  Optimizing flip angles for metabolic rate estimation in hyperpolarized carbon-13 MRI, IEEE Transactions on Medical Imaging, to appear. [papers/2016TMI.pdf Preprint]. [https://github.com/maidens/TMI-2015 Software]. doi:[http://dx.doi.org/10.1109/TMI.2016.2574240  10.1109/TMI.2016.2574240].
 
-    - J. Maidens, M. Arcak, Reachability analysis of nonlinear systems using matrix measures, IEEE Transactions on Automatic Control, vol. 60, pp.265-270, 2015. [papers/2015TAC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/TAC.2014.2325635  10.1109/TAC.2014.2325635]. [papers/2015TAC_corrigenda.pdf Corrigenda].
+    - J. Maidens, M. Arcak, Reachability analysis of nonlinear systems using matrix measures, IEEE Transactions on Automatic Control, vol. 60, pp.265-270, 2015. [papers/2015TAC.pdf Preprint]. [https://github.com/maidens/Matrix-Measure-Reachability-Project Software]. doi:[http://dx.doi.org/10.1109/TAC.2014.2325635  10.1109/TAC.2014.2325635]. [papers/2015TAC_corrigenda.pdf Corrigenda].
 
-    - J. Maidens, S. Kaynama, I. M. Mitchell, M. Oishi, G. A. Dumont, Lagrangian methods for approximating the viability kernel in high-dimensional systems, Automatica, vol. 49, pp.2017-2029, 2013. [papers/2013Automatica.pdf Preprint]. doi:[http://dx.doi.org/10.1016/j.automatica.2013.03.020 10.1016/j.automatica.2013.03.020].
+    - J. Maidens, S. Kaynama, I. M. Mitchell, M. Oishi, G. A. Dumont, Lagrangian methods for approximating the viability kernel in high-dimensional systems, Automatica, vol. 49, pp.2017-2029, 2013. [papers/2013Automatica.pdf Preprint]. [https://github.com/maidens/Automatica-2013 Software]. doi:[http://dx.doi.org/10.1016/j.automatica.2013.03.020 10.1016/j.automatica.2013.03.020].
 
 
 == Refereed conference proceedings
 
-	- J. Maidens, A. Barrau, S. Bonnabel, and M. Arcak, Symmetry reduction for dynamic programming and application to MRI. American Control Conference, Seattle, WA, submitted. [papers/2017ACC.pdf Preprint]. 
+	- J. Maidens, A. Barrau, S. Bonnabel, and M. Arcak, Symmetry reduction for dynamic programming and application to MRI. American Control Conference, Seattle, WA, submitted. [papers/2017ACC.pdf Preprint]. [https://github.com/maidens/ACC-2017 Software]. 
 
-    - J. Maidens, A. Packard, M. Arcak, Parallel dynamic programming for optimal experiment design in nonlinear systems. Conference on Decision and Control, Las Vegas, NV, 2016, to appear. [papers/2016CDC.pdf Preprint].# doi:[http://dx.doi.org/10.1109/ACC.2015.7172243 10.1109/ACC.2015.7172243].
+    - J. Maidens, A. Packard, M. Arcak, Parallel dynamic programming for optimal experiment design in nonlinear systems. Conference on Decision and Control, Las Vegas, NV, 2016, to appear. [papers/2016CDC.pdf Preprint]. [https://github.com/maidens/CDC-2016 Software]. # doi:[http://dx.doi.org/10.1109/ACC.2015.7172243 10.1109/ACC.2015.7172243].
 
-    - J. Maidens, M. Arcak, Semidefinite relaxations in optimal experiment design with application to substrate injection for hyperpolarized MRI (Invited Paper). American Control Conference, Boston, MA, pp. 2023 - 2028, 2016. [papers/2016ACC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/ACC.2016.7525216 10.1109/ACC.2016.7525216].
+    - J. Maidens, M. Arcak, Semidefinite relaxations in optimal experiment design with application to substrate injection for hyperpolarized MRI (Invited Paper). American Control Conference, Boston, MA, pp. 2023 - 2028, 2016. [papers/2016ACC.pdf Preprint]. [https://github.com/maidens/ACC-2016 Software]. doi:[http://dx.doi.org/10.1109/ACC.2016.7525216 10.1109/ACC.2016.7525216].
 
-    - J. Maidens, P. E. Z. Larson, M. Arcak, Optimal experiment design for physiological parameter estimation using hyperpolarized carbon-13 magnetic resonance imaging. American Control Conference, Chicago, IL, pp. 5770-5775, 2015. [papers/2015ACC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/ACC.2015.7172243 10.1109/ACC.2015.7172243].
+    - J. Maidens, P. E. Z. Larson, M. Arcak, Optimal experiment design for physiological parameter estimation using hyperpolarized carbon-13 magnetic resonance imaging. American Control Conference, Chicago, IL, pp. 5770-5775, 2015. [papers/2015ACC.pdf Preprint]. [https://github.com/maidens/ACC-2015 Software]. doi:[http://dx.doi.org/10.1109/ACC.2015.7172243 10.1109/ACC.2015.7172243].
 
     - J. Maidens, M. Arcak, Trajectory-based reachability analysis of switched nonlinear systems using matrix measures, Conference on Decision and Control, Los Angeles, CA, pp.6358-6364, 2014. [papers/2014CDC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/CDC.2014.7040386  10.1109/CDC.2014.7040386].
 
-    - J. Maidens, M. Y. Li, Global Lyapunov functions and a hierarchical control scheme for networks of robotic agents, American Control Conference, Washington, DC, pp.4050-4055, 2013. [papers/2013ACC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/ACC.2013.6580460  10.1109/ACC.2013.6580460].
+    - J. Maidens, M. Y. Li, Global Lyapunov functions and a hierarchical control scheme for networks of robotic agents, American Control Conference, Washington, DC, pp.4050-4055, 2013. [papers/2013ACC.pdf Preprint]. [https://github.com/maidens/ACC-2013 Software]. doi:[http://dx.doi.org/10.1109/ACC.2013.6580460  10.1109/ACC.2013.6580460].
 	
 	- S. Kaynama, J. Maidens, M. Oishi, I. M. Mitchell, G. A. Dumont, Computing the Viability Kernel Using Maximal Reachable Sets,
     Hybrid Systems Computation and Control, Beijing, China, pp.55-63, 2012. [papers/2012HSCC.pdf Preprint]. doi:[http://dx.doi.org/10.1145/2185632.2185644  10.1145/2185632.2185644].
