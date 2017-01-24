@@ -14,9 +14,9 @@
 
 	- J. Maidens, M. Arcak, Control and systems theory problems in hyperpolarized carbon-13 MRI, in Emerging Applications of Control and System Theory, eds. R. Tempo and S. Yurkovich, Springer, to appear. [papers/2017Festschrift.pdf Preprint]
 
-	- J. Maidens, A. Barrau, S. Bonnabel, and M. Arcak, Symmetry reduction for dynamic programming and application to MRI. American Control Conference, Seattle, WA, submitted. [papers/2017ACC.pdf Preprint].
+	- J. Maidens, A. Barrau, S. Bonnabel, and M. Arcak, Symmetry reduction for dynamic programming and application to MRI. American Control Conference, Seattle, WA, accepted. [papers/2017ACC.pdf Preprint]. [https://github.com/maidens/ACC-2017 Software].
 
-    - J. Maidens, A. Packard, M. Arcak, Parallel dynamic programming for optimal experiment design in nonlinear systems. Conference on Decision and Control, Las Vegas, NV, 2016, to appear. [papers/2016CDC.pdf Preprint]. [https://github.com/maidens/CDC-2016 Software].
+    - J. Maidens, A. Packard, M. Arcak, Parallel dynamic programming for optimal experiment design in nonlinear systems. Conference on Decision and Control, Las Vegas, NV, pp. 2894 - 2899, 2016. [papers/2016CDC.pdf Preprint]. [https://github.com/maidens/CDC-2016 Software].  doi:[https://doi.org/10.1109/CDC.2016.7798700 10.1109/CDC.2016.7798700].
 
     - J. Maidens, M. Arcak, Semidefinite relaxations in optimal experiment design with application to substrate injection for hyperpolarized MRI (Invited Paper). American Control Conference, Boston, MA, pp. 2023 - 2028, 2016. [papers/2016ACC.pdf Preprint]. doi:[http://dx.doi.org/10.1109/ACC.2016.7525216 10.1109/ACC.2016.7525216].
 
